@@ -1,5 +1,5 @@
 <p align = "center">
-  <img src = "./images/soul.jpg">
+  <img src = "./images/soul.png">
 <p>
 
 # Soul
