@@ -1,3 +1,7 @@
+<p align = "center">
+  <img src = "./images/soul.jpg">
+<p>
+
 # Soul
 
 > Javascript runtime 

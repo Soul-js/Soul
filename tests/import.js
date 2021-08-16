@@ -1,3 +1,3 @@
-let sayHello = use('./tests/import-2.js');
+let sayHello = require('./tests/import-2.js');
 
 println(sayHello("dark"));
